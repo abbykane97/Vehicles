@@ -8,6 +8,10 @@ public class SemiTruck extends Vehicle{
         this.numberOfTrailers = numberOfTrailers;
     }
 
+    public SemiTruck() {
+
+    }
+
     public int getNumberOfTrailers() {
         return numberOfTrailers;
     }

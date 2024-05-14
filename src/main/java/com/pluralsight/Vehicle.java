@@ -18,6 +18,10 @@ public class Vehicle {
         this.cargoCapacity = cargoCapacity;
     }
 
+    public Vehicle() {
+
+    }
+
     public String getModel() {
         return model;
     }

@@ -8,6 +8,10 @@ public class Moped extends Vehicle{
         this.maxWeight = maxWeight;
     }
 
+    public Moped() {
+
+    }
+
     public int getMaxWeight() {
         return maxWeight;
     }

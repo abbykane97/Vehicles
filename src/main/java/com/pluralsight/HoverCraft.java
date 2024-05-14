@@ -8,6 +8,10 @@ public class HoverCraft extends Vehicle{
         this.airCushionPressure = airCushionPressure;
     }
 
+    public HoverCraft() {
+
+    }
+
     public int getAirCushionPressure() {
         return airCushionPressure;
     }
